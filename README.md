@@ -5,7 +5,7 @@ Azure Notebooks Overview
 •	Introduction\
 Azure Notebooks is a free hosted service to develop and run Jupyter notebooks in the cloud with no installation. With Azure Notebooks, users can also copy (or "clone") notebooks into their own account for modification or experimentation, which is especially useful for instruction purposes.
 
-•	Features\
+•	Features
 1.	Each project is limited to 4GB memory and 1GB data to prevent abuse
 2.	Notebook servers are guaranteed to exist for at most 8 hours
 3.	Available kernels and environments:
@@ -28,7 +28,7 @@ BQPlot: An interactive plotting framework for Jupyter Notebooks
 IpyWidgets: Interactive HTML widgets for Jupyter Notebooks.
 9.	Users could choose either private or public for the project
 
-•	Limitation\
+•	Limitation
 1.	As this is a preview service under development, there is currently a known issue where the Environment.yml setting does not get applied to the project as expected. The project and the Jupyter notebooks within do not load the specified environment file at present.
 
 •	Future\
